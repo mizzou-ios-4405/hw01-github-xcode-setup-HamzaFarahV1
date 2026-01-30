@@ -7,53 +7,53 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		D964E5932F2D08D800CAA520 /* PBXContainerItemProxy */ = {
+		D96EB4AB2F2D208000580202 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D964E5742F2D08D700CAA520 /* Project object */;
+			containerPortal = D96EB48C2F2D207E00580202 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D964E57B2F2D08D700CAA520;
+			remoteGlobalIDString = D96EB4932F2D207E00580202;
 			remoteInfo = HelloWorldApp;
 		};
-		D964E59D2F2D08D800CAA520 /* PBXContainerItemProxy */ = {
+		D96EB4B52F2D208000580202 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D964E5742F2D08D700CAA520 /* Project object */;
+			containerPortal = D96EB48C2F2D207E00580202 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D964E57B2F2D08D700CAA520;
+			remoteGlobalIDString = D96EB4932F2D207E00580202;
 			remoteInfo = HelloWorldApp;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D964E57C2F2D08D700CAA520 /* HelloWorldApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorldApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D964E5922F2D08D800CAA520 /* HelloWorldAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D964E59C2F2D08D800CAA520 /* HelloWorldAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D96EB4942F2D207E00580202 /* HelloWorldApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorldApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D96EB4AA2F2D208000580202 /* HelloWorldAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D96EB4B42F2D208000580202 /* HelloWorldAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		D964E5A42F2D08D800CAA520 /* Exceptions for "HelloWorldApp" folder in "HelloWorldApp" target */ = {
+		D96EB4BC2F2D208000580202 /* Exceptions for "HelloWorldApp" folder in "HelloWorldApp" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = D964E57B2F2D08D700CAA520 /* HelloWorldApp */;
+			target = D96EB4932F2D207E00580202 /* HelloWorldApp */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		D964E57E2F2D08D700CAA520 /* HelloWorldApp */ = {
+		D96EB4962F2D207E00580202 /* HelloWorldApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				D964E5A42F2D08D800CAA520 /* Exceptions for "HelloWorldApp" folder in "HelloWorldApp" target */,
+				D96EB4BC2F2D208000580202 /* Exceptions for "HelloWorldApp" folder in "HelloWorldApp" target */,
 			);
 			path = HelloWorldApp;
 			sourceTree = "<group>";
 		};
-		D964E5952F2D08D800CAA520 /* HelloWorldAppTests */ = {
+		D96EB4AD2F2D208000580202 /* HelloWorldAppTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = HelloWorldAppTests;
 			sourceTree = "<group>";
 		};
-		D964E59F2F2D08D800CAA520 /* HelloWorldAppUITests */ = {
+		D96EB4B72F2D208000580202 /* HelloWorldAppUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = HelloWorldAppUITests;
 			sourceTree = "<group>";
@@ -61,21 +61,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D964E5792F2D08D700CAA520 /* Frameworks */ = {
+		D96EB4912F2D207E00580202 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D964E58F2F2D08D800CAA520 /* Frameworks */ = {
+		D96EB4A72F2D208000580202 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D964E5992F2D08D800CAA520 /* Frameworks */ = {
+		D96EB4B12F2D208000580202 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -85,22 +85,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D964E5732F2D08D700CAA520 = {
+		D96EB48B2F2D207E00580202 = {
 			isa = PBXGroup;
 			children = (
-				D964E57E2F2D08D700CAA520 /* HelloWorldApp */,
-				D964E5952F2D08D800CAA520 /* HelloWorldAppTests */,
-				D964E59F2F2D08D800CAA520 /* HelloWorldAppUITests */,
-				D964E57D2F2D08D700CAA520 /* Products */,
+				D96EB4962F2D207E00580202 /* HelloWorldApp */,
+				D96EB4AD2F2D208000580202 /* HelloWorldAppTests */,
+				D96EB4B72F2D208000580202 /* HelloWorldAppUITests */,
+				D96EB4952F2D207E00580202 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D964E57D2F2D08D700CAA520 /* Products */ = {
+		D96EB4952F2D207E00580202 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D964E57C2F2D08D700CAA520 /* HelloWorldApp.app */,
-				D964E5922F2D08D800CAA520 /* HelloWorldAppTests.xctest */,
-				D964E59C2F2D08D800CAA520 /* HelloWorldAppUITests.xctest */,
+				D96EB4942F2D207E00580202 /* HelloWorldApp.app */,
+				D96EB4AA2F2D208000580202 /* HelloWorldAppTests.xctest */,
+				D96EB4B42F2D208000580202 /* HelloWorldAppUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,134 +108,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D964E57B2F2D08D700CAA520 /* HelloWorldApp */ = {
+		D96EB4932F2D207E00580202 /* HelloWorldApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D964E5A52F2D08D800CAA520 /* Build configuration list for PBXNativeTarget "HelloWorldApp" */;
+			buildConfigurationList = D96EB4BD2F2D208000580202 /* Build configuration list for PBXNativeTarget "HelloWorldApp" */;
 			buildPhases = (
-				D964E5782F2D08D700CAA520 /* Sources */,
-				D964E5792F2D08D700CAA520 /* Frameworks */,
-				D964E57A2F2D08D700CAA520 /* Resources */,
+				D96EB4902F2D207E00580202 /* Sources */,
+				D96EB4912F2D207E00580202 /* Frameworks */,
+				D96EB4922F2D207E00580202 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				D964E57E2F2D08D700CAA520 /* HelloWorldApp */,
+				D96EB4962F2D207E00580202 /* HelloWorldApp */,
 			);
 			name = HelloWorldApp;
 			packageProductDependencies = (
 			);
 			productName = HelloWorldApp;
-			productReference = D964E57C2F2D08D700CAA520 /* HelloWorldApp.app */;
+			productReference = D96EB4942F2D207E00580202 /* HelloWorldApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D964E5912F2D08D800CAA520 /* HelloWorldAppTests */ = {
+		D96EB4A92F2D208000580202 /* HelloWorldAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D964E5AA2F2D08D800CAA520 /* Build configuration list for PBXNativeTarget "HelloWorldAppTests" */;
+			buildConfigurationList = D96EB4C22F2D208000580202 /* Build configuration list for PBXNativeTarget "HelloWorldAppTests" */;
 			buildPhases = (
-				D964E58E2F2D08D800CAA520 /* Sources */,
-				D964E58F2F2D08D800CAA520 /* Frameworks */,
-				D964E5902F2D08D800CAA520 /* Resources */,
+				D96EB4A62F2D208000580202 /* Sources */,
+				D96EB4A72F2D208000580202 /* Frameworks */,
+				D96EB4A82F2D208000580202 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D964E5942F2D08D800CAA520 /* PBXTargetDependency */,
+				D96EB4AC2F2D208000580202 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				D964E5952F2D08D800CAA520 /* HelloWorldAppTests */,
+				D96EB4AD2F2D208000580202 /* HelloWorldAppTests */,
 			);
 			name = HelloWorldAppTests;
 			packageProductDependencies = (
 			);
 			productName = HelloWorldAppTests;
-			productReference = D964E5922F2D08D800CAA520 /* HelloWorldAppTests.xctest */;
+			productReference = D96EB4AA2F2D208000580202 /* HelloWorldAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		D964E59B2F2D08D800CAA520 /* HelloWorldAppUITests */ = {
+		D96EB4B32F2D208000580202 /* HelloWorldAppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D964E5AD2F2D08D800CAA520 /* Build configuration list for PBXNativeTarget "HelloWorldAppUITests" */;
+			buildConfigurationList = D96EB4C52F2D208000580202 /* Build configuration list for PBXNativeTarget "HelloWorldAppUITests" */;
 			buildPhases = (
-				D964E5982F2D08D800CAA520 /* Sources */,
-				D964E5992F2D08D800CAA520 /* Frameworks */,
-				D964E59A2F2D08D800CAA520 /* Resources */,
+				D96EB4B02F2D208000580202 /* Sources */,
+				D96EB4B12F2D208000580202 /* Frameworks */,
+				D96EB4B22F2D208000580202 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D964E59E2F2D08D800CAA520 /* PBXTargetDependency */,
+				D96EB4B62F2D208000580202 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				D964E59F2F2D08D800CAA520 /* HelloWorldAppUITests */,
+				D96EB4B72F2D208000580202 /* HelloWorldAppUITests */,
 			);
 			name = HelloWorldAppUITests;
 			packageProductDependencies = (
 			);
 			productName = HelloWorldAppUITests;
-			productReference = D964E59C2F2D08D800CAA520 /* HelloWorldAppUITests.xctest */;
+			productReference = D96EB4B42F2D208000580202 /* HelloWorldAppUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D964E5742F2D08D700CAA520 /* Project object */ = {
+		D96EB48C2F2D207E00580202 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2610;
 				LastUpgradeCheck = 2610;
 				TargetAttributes = {
-					D964E57B2F2D08D700CAA520 = {
+					D96EB4932F2D207E00580202 = {
 						CreatedOnToolsVersion = 26.1.1;
 					};
-					D964E5912F2D08D800CAA520 = {
+					D96EB4A92F2D208000580202 = {
 						CreatedOnToolsVersion = 26.1.1;
-						TestTargetID = D964E57B2F2D08D700CAA520;
+						TestTargetID = D96EB4932F2D207E00580202;
 					};
-					D964E59B2F2D08D800CAA520 = {
+					D96EB4B32F2D208000580202 = {
 						CreatedOnToolsVersion = 26.1.1;
-						TestTargetID = D964E57B2F2D08D700CAA520;
+						TestTargetID = D96EB4932F2D207E00580202;
 					};
 				};
 			};
-			buildConfigurationList = D964E5772F2D08D700CAA520 /* Build configuration list for PBXProject "HelloWorldApp" */;
+			buildConfigurationList = D96EB48F2F2D207E00580202 /* Build configuration list for PBXProject "HelloWorldApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = D964E5732F2D08D700CAA520;
+			mainGroup = D96EB48B2F2D207E00580202;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = D964E57D2F2D08D700CAA520 /* Products */;
+			productRefGroup = D96EB4952F2D207E00580202 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D964E57B2F2D08D700CAA520 /* HelloWorldApp */,
-				D964E5912F2D08D800CAA520 /* HelloWorldAppTests */,
-				D964E59B2F2D08D800CAA520 /* HelloWorldAppUITests */,
+				D96EB4932F2D207E00580202 /* HelloWorldApp */,
+				D96EB4A92F2D208000580202 /* HelloWorldAppTests */,
+				D96EB4B32F2D208000580202 /* HelloWorldAppUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D964E57A2F2D08D700CAA520 /* Resources */ = {
+		D96EB4922F2D207E00580202 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D964E5902F2D08D800CAA520 /* Resources */ = {
+		D96EB4A82F2D208000580202 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D964E59A2F2D08D800CAA520 /* Resources */ = {
+		D96EB4B22F2D208000580202 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -245,21 +245,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D964E5782F2D08D700CAA520 /* Sources */ = {
+		D96EB4902F2D207E00580202 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D964E58E2F2D08D800CAA520 /* Sources */ = {
+		D96EB4A62F2D208000580202 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D964E5982F2D08D800CAA520 /* Sources */ = {
+		D96EB4B02F2D208000580202 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -269,20 +269,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		D964E5942F2D08D800CAA520 /* PBXTargetDependency */ = {
+		D96EB4AC2F2D208000580202 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D964E57B2F2D08D700CAA520 /* HelloWorldApp */;
-			targetProxy = D964E5932F2D08D800CAA520 /* PBXContainerItemProxy */;
+			target = D96EB4932F2D207E00580202 /* HelloWorldApp */;
+			targetProxy = D96EB4AB2F2D208000580202 /* PBXContainerItemProxy */;
 		};
-		D964E59E2F2D08D800CAA520 /* PBXTargetDependency */ = {
+		D96EB4B62F2D208000580202 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D964E57B2F2D08D700CAA520 /* HelloWorldApp */;
-			targetProxy = D964E59D2F2D08D800CAA520 /* PBXContainerItemProxy */;
+			target = D96EB4932F2D207E00580202 /* HelloWorldApp */;
+			targetProxy = D96EB4B52F2D208000580202 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		D964E5A62F2D08D800CAA520 /* Debug */ = {
+		D96EB4BE2F2D208000580202 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -314,7 +314,7 @@
 			};
 			name = Debug;
 		};
-		D964E5A72F2D08D800CAA520 /* Release */ = {
+		D96EB4BF2F2D208000580202 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -346,7 +346,7 @@
 			};
 			name = Release;
 		};
-		D964E5A82F2D08D800CAA520 /* Debug */ = {
+		D96EB4C02F2D208000580202 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -410,7 +410,7 @@
 			};
 			name = Debug;
 		};
-		D964E5A92F2D08D800CAA520 /* Release */ = {
+		D96EB4C12F2D208000580202 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -467,7 +467,7 @@
 			};
 			name = Release;
 		};
-		D964E5AB2F2D08D800CAA520 /* Debug */ = {
+		D96EB4C32F2D208000580202 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -489,7 +489,7 @@
 			};
 			name = Debug;
 		};
-		D964E5AC2F2D08D800CAA520 /* Release */ = {
+		D96EB4C42F2D208000580202 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -511,7 +511,7 @@
 			};
 			name = Release;
 		};
-		D964E5AE2F2D08D800CAA520 /* Debug */ = {
+		D96EB4C62F2D208000580202 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -531,7 +531,7 @@
 			};
 			name = Debug;
 		};
-		D964E5AF2F2D08D800CAA520 /* Release */ = {
+		D96EB4C72F2D208000580202 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -554,43 +554,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D964E5772F2D08D700CAA520 /* Build configuration list for PBXProject "HelloWorldApp" */ = {
+		D96EB48F2F2D207E00580202 /* Build configuration list for PBXProject "HelloWorldApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D964E5A82F2D08D800CAA520 /* Debug */,
-				D964E5A92F2D08D800CAA520 /* Release */,
+				D96EB4C02F2D208000580202 /* Debug */,
+				D96EB4C12F2D208000580202 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D964E5A52F2D08D800CAA520 /* Build configuration list for PBXNativeTarget "HelloWorldApp" */ = {
+		D96EB4BD2F2D208000580202 /* Build configuration list for PBXNativeTarget "HelloWorldApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D964E5A62F2D08D800CAA520 /* Debug */,
-				D964E5A72F2D08D800CAA520 /* Release */,
+				D96EB4BE2F2D208000580202 /* Debug */,
+				D96EB4BF2F2D208000580202 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D964E5AA2F2D08D800CAA520 /* Build configuration list for PBXNativeTarget "HelloWorldAppTests" */ = {
+		D96EB4C22F2D208000580202 /* Build configuration list for PBXNativeTarget "HelloWorldAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D964E5AB2F2D08D800CAA520 /* Debug */,
-				D964E5AC2F2D08D800CAA520 /* Release */,
+				D96EB4C32F2D208000580202 /* Debug */,
+				D96EB4C42F2D208000580202 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D964E5AD2F2D08D800CAA520 /* Build configuration list for PBXNativeTarget "HelloWorldAppUITests" */ = {
+		D96EB4C52F2D208000580202 /* Build configuration list for PBXNativeTarget "HelloWorldAppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D964E5AE2F2D08D800CAA520 /* Debug */,
-				D964E5AF2F2D08D800CAA520 /* Release */,
+				D96EB4C62F2D208000580202 /* Debug */,
+				D96EB4C72F2D208000580202 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D964E5742F2D08D700CAA520 /* Project object */;
+	rootObject = D96EB48C2F2D207E00580202 /* Project object */;
 }
